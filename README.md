@@ -1,8 +1,9 @@
 ## Hi friends 👋 🙋‍♂️ I am Kauan Estoque Pereira
 
-💻 Constantly studying about technology; <br>
-🖥️ Web Full Stack Developer; <br>
-👨‍🎓 Last semester of college in systems analysis and development at Senai Roberto Mange School and Faculty of Technology; <br>
+💻 Passionate about technology and continuous learning; <br>
+🖥️ Full Stack Developer; <br>
+👨‍🎓 Systems Analysis and Development Graduate – Senai Roberto Mange; <br>
+🚀 Building automation projects and scalable solutions; <br>
 📥 Email: kestoquepereira@gmail.com <br>
 
 <div> 
